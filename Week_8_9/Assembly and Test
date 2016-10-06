@@ -1,0 +1,12 @@
+● Assembly
+○ Hand solder boards.
+○ Test/programming jigs as necessary
+● Testing
+○ This is where the cold, hard universe passes judgment on your design.
+○ Subsection bring up and testing.
+○ Debugging and fixing. Lots of fixing.
+● Firmware
+○ Unless your prototype was really good, this is the time for firmware people to panic.
+○ First boards mean lots of code debugging and last minute features.
+● Deliverables
+○ Assembled, tested, and programmed boards.
