@@ -1,0 +1,11 @@
+● Designing a printed circuit board (PCB)
+○ Physical placement of components on the board
+○ Routing traces
+○ DFx
+● Deliverables
+○ Parts ordered.
+○ Last minute changes to schematic, BOM and layout based on availability.
+○ PCB layout complete with no DRC errors.
+○ CAM files (Gerber files) created and emailed to PCB mfg.
+○ Most of the firmware should now be prototyped.
+● GO BACK AND UPDATE YOUR DOCUMENTATION.
