@@ -1,0 +1,12 @@
+● If you’re not absolutely sure how something works, you’re going to want to
+prototype it.
+● Purchase development boards and/or bare components. Hand wire (“hack”)
+parts together.
+● Your job: reduce design risk!
+● In other words, try things out, experiment, hack, make mistakes, etc. Now is
+the time to get it wrong.
+● Deliverables:
+○ A much higher likelihood of success for your project.
+○ Complete, error free schematics.
+○ Bill of materials (BOM).
+○ First compiling bits of firmware.
